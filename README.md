@@ -70,6 +70,3 @@ Ayrıca repoda **A* Pathfinding Project** dosyaları yer alıyor (ör. `Assets/S
 - PR’lar ve issue’lar kabul edilir.
 - Büyük değişiklikler için önce issue açman önerilir.
 
-## Lisans
-
-Bu proje için lisans bilgisi repoda belirtilmemiş olabilir. Gerekirse `LICENSE` dosyası ekleyebilirsin.
